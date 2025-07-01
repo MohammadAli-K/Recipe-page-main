@@ -33,12 +33,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Flexbox
 - CSS Grid
 - bem methodology
-- **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ## Author
 
 - Website - [MohammedK](https://recipe-page-main-psi-beryl.vercel.app/)
 - Frontend Mentor - [@MohammadAli-K](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 # Recipe-page-main
